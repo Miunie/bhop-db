@@ -2,7 +2,7 @@ import Records from './records.json' assert {type: 'json'};
 import Players from './players.json' assert {type: 'json'};
 
 function compareFull(a, b) {
-    return a.time - b.time;
+    return toMs(a.time.toString()) - toMs(b.time.toString());
 }
 
 // HSW W SW AD
@@ -102,6 +102,30 @@ function render() {
         recordstable.appendChild(row);
         if (i >= limit) break;
     };
+}
+
+function toMs(time) {
+
+    let intpart = time.split(".")[0];
+    let decpart = time.split(".")[1];
+    if (decpart.length == 1) decpart+="00";
+    if (decpart.length == 2) decpart+="0";
+
+    let secs=0, mins=0, hours=0;
+
+    if (intpart.split(":").length - 1 > 0) {
+        switch (intpart.split(":").length - 1) {
+            case 1: mins = intpart.split(":")[0]; secs = intpart.split(":")[1]; break;
+            case 2: hours = intpart.split(":")[0]; mins = intpart.split(":")[1]; secs = intpart.split(":")[2]; break;
+        }
+    } else secs = intpart;
+    
+    decpart = parseInt(decpart);
+    secs = parseInt(secs);
+    mins = parseInt(mins);
+    hours = parseInt(hours);
+
+    return hours * 3600000 + mins * 60000 + secs * 1000 + decpart;
 }
 
 function selectAll() {
