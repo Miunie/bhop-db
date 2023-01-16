@@ -1,7 +1,68 @@
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html class="bg-auto bg-fixed bg-no-repeat bg-gradient-to-b h-full from-slate-800 to-[#070b15]">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>BHOP Database</title>
+        <link href="./style.css" rel="stylesheet" type="text/css" />
+        <script src="./script.js" type="module"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.1.0/mdb.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+
+    <body class="font-['Open_Sans']">
+        <div class="navbar bg-slate-700 text-white flex pl-4 h-20 space-x-8 items-center shadow-lg border-b-2 border-slate-600">
+            <img src="icon.png" class="w-16 h-16 ml-2"/>
+            <h3 class="navt text-3xl font-medium">Off-Style Database</h3>
+            <div class="navmenu bg-slate-900/[.3] text-lg rounded-lg h-16 items-center flex">
+                <a class="h-full hover:bg-slate-400/[0.2] rounded-lg px-4 items-center transition ease-in-out duration-300 flex" href="records.html">Records</a>
+                <a class="h-full hover:bg-slate-400/[0.2] rounded-lg px-4 items-center transition ease-in-out duration-300 flex" href="players.html">Players</a>
+                <a class="h-full hover:bg-slate-400/[0.2] rounded-lg px-4 items-center transition ease-in-out duration-300 flex" href="servers.html">Servers</a>
+                <a class="h-full hover:bg-slate-400/[0.2] rounded-lg px-4 items-center transition ease-in-out duration-300 flex" href="community.html">Community</a>
+            </div>
+        </div>
+        
+        <div ng-app="" class="content-wrapper pt-8 grid gap-y-8 grid-cols-1 place-items-center">
+
+            <div class="text-white text-2xl text-medium text-center">
+                Records for map:<br/>
+                <input type="text" id="mapfilter" size="12" value="" class="inline h-10 mt-2 text-slate-300 w-[400px] text-center bg-slate-900 rounded-lg" placeholder="Enter map name...">
+            </div>
+
+            <div class="selector bg-slate-700 text-lg rounded-lg items-center flex shadow-lg border-2 border-slate-600">
+                <span id="select-all" class="cursor-pointer h-full outline-2 outline-white/[.4] hover:bg-white/[0.1] hover:outline text-white rounded-lg px-4 py-2 items-center flex">
+                    All
+                </span>
+                <span id="select-hsw" class="cursor-pointer h-full outline-2 hover:outline rounded-lg px-4 py-2 items-center flex">
+                    HSW
+                </span>
+                <span id="select-w" class="cursor-pointer h-full hover:outline outline-2 rounded-lg px-4 py-2 items-center flex">
+                    W
+                </span>
+                <span id="select-sw" class="cursor-pointer h-full hover:outline outline-2 rounded-lg px-4 py-2 items-center flex">
+                    SW
+                </span>
+                <span id="select-ad" class="cursor-pointer h-full hover:outline outline-2 rounded-lg px-4 py-2 items-center flex">
+                    A/D
+                </span>
+            </div>
+
+            <table class="table-fixed text-xl text-white self-center text-center bg-slate-700 rounded-lg shadow-lg">
+                <thead class="bg-slate-900/[.3]">
+                    <tr class="table-row border-b-2 border-slate-600">
+                        <th class="w-[40px] text-center pl-2">Rank</th>
+                        <th class="w-[300px] text-center">Map</th>
+                        <th class="w-[80px]">Time</th>
+                        <th class="w-[80px]">Style</th>
+                        <th class="w-[240px] text-left">Player</th>
+                        <th class="w-[260px]">Server</th>
+                    </tr>
+                </thead>
+                <tbody id="recordstable">
+                </tbody>
+            </table>
+        </div>
+        
+    </body>
 </html>
