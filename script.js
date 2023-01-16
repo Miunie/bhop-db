@@ -105,7 +105,6 @@ function render() {
 }
 
 function toMs(time) {
-
     let intpart = time.split(".")[0];
     let decpart = time.split(".")[1];
     if (decpart.length == 1) decpart+="00";

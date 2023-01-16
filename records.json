@@ -2816,7 +2816,7 @@
     },
     {
       "map": "bhop_bihopfun2",
-      "time": "51.26.300",
+      "time": "51:26.300",
       "style": "HSW",
       "player": "Yanki",
       "server": "ALV WL"
@@ -22549,14 +22549,14 @@
       },
       {
         "map": "bhop_aztec_2017",
-        "time": "21.07",
+        "time": "21.070",
         "style": "W",
         "player": ".lm",
         "server": "Ultima WL"
       },
       {
         "map": "bh_aztec_8xl",
-        "time": "41",
+        "time": "41.000",
         "style": "W",
         "player": "Aimer",
         "server": "CW"
@@ -22689,7 +22689,7 @@
       },
       {
         "map": "bhop_badges_stupidmap",
-        "time": "30",
+        "time": "30.000",
         "style": "W",
         "player": "blacky",
         "server": "CW"
@@ -23214,7 +23214,7 @@
       },
       {
         "map": "bhop_bliss2",
-        "time": "54",
+        "time": "54.000",
         "style": "W",
         "player": "W-Only",
         "server": "KawaiiClan"
@@ -24621,7 +24621,7 @@
       },
       {
         "map": "bhop_control",
-        "time": "56",
+        "time": "56.000",
         "style": "W",
         "player": "PixeL",
         "server": "CW"
@@ -24775,7 +24775,7 @@
       },
       {
         "map": "bhop_crux_speedrun",
-        "time": "27",
+        "time": "27.000",
         "style": "W",
         "player": "kat",
         "server": "CW"
@@ -25566,7 +25566,7 @@
       },
       {
         "map": "bhop_dinks_L2hop_v1",
-        "time": "48",
+        "time": "48.000",
         "style": "W",
         "player": "Brax",
         "server": "CW"
@@ -25867,7 +25867,7 @@
       },
       {
         "map": "bhop_dtt_trainning2",
-        "time": "27",
+        "time": "27.000",
         "style": "W",
         "player": "log",
         "server": "TRUBHOPING"
@@ -27064,7 +27064,7 @@
       },
       {
         "map": "bhop_fl_v2",
-        "time": "34",
+        "time": "34.000",
         "style": "W",
         "player": "blacky",
         "server": "CW"
@@ -31607,7 +31607,7 @@
       },
       {
         "map": "bhop_minecraft_v1",
-        "time": "34",
+        "time": "34.000",
         "style": "W",
         "player": "blacky",
         "server": "CW"
@@ -33630,7 +33630,7 @@
       },
       {
         "map": "bhop_puff_zadrot",
-        "time": "16",
+        "time": "16.000",
         "style": "W",
         "player": "spliff",
         "server": "KawaiiClan"
@@ -36514,7 +36514,7 @@
       },
       {
         "map": "bhop_strider_v2",
-        "time": "29",
+        "time": "29.000",
         "style": "W",
         "player": "Mendacia",
         "server": "CW"
@@ -38453,7 +38453,7 @@
       },
       {
         "map": "bhop_xc_desert",
-        "time": "35",
+        "time": "35.000",
         "style": "W",
         "player": "Jurd9R",
         "server": "Baguette WL"
@@ -40203,7 +40203,7 @@
       },
       {
         "map": "bhop_animal",
-        "time": "5.15.342",
+        "time": "5:15.342",
         "style": "SW",
         "player": "Shial",
         "server": "EUFrag"
@@ -40588,7 +40588,7 @@
       },
       {
         "map": "bhop_astara",
-        "time": "2.28.275",
+        "time": "2:28.275",
         "style": "SW",
         "player": "Shial",
         "server": "Exalted WL"
@@ -45642,7 +45642,7 @@
       },
       {
         "map": "bhop_fogcandy",
-        "time": "1.41.969",
+        "time": "1:41.969",
         "style": "SW",
         "player": "Shial",
         "server": "Exalted WL"
@@ -46979,7 +46979,7 @@
       },
       {
         "map": "bhop_hestia",
-        "time": "1.26.122",
+        "time": "1:26.122",
         "style": "SW",
         "player": "Shial",
         "server": "Baguette Server WL"
@@ -47364,7 +47364,7 @@
       },
       {
         "map": "bhop_idiosyncrasy",
-        "time": "13.44.927",
+        "time": "13:44.927",
         "style": "SW",
         "player": "fiffy",
         "server": "GFLClan"
@@ -47679,7 +47679,7 @@
       },
       {
         "map": "bhop_ivy_final",
-        "time": "21.44.300",
+        "time": "21:44.300",
         "style": "SW",
         "player": "Eiri",
         "server": "GFLClan"
@@ -47910,7 +47910,7 @@
       },
       {
         "map": "bhop_joy",
-        "time": "1.32.839",
+        "time": "1:32.839",
         "style": "SW",
         "player": "zep",
         "server": "LacunaHops"
@@ -49051,7 +49051,7 @@
       },
       {
         "map": "bhop_linear_forest2",
-        "time": " 1.33.803",
+        "time": "1:33.803",
         "style": "SW",
         "player": "zep",
         "server": "[doot.si] WL"
@@ -49464,7 +49464,7 @@
       },
       {
         "map": "bhop_malabar5",
-        "time": "1.49.700",
+        "time": "1:49.700",
         "style": "SW",
         "player": "Shial",
         "server": "Exalted WL"
@@ -50773,7 +50773,7 @@
       },
       {
         "map": "kz_bhop_nothing",
-        "time": "1:22.27.779",
+        "time": "1:22:27.779",
         "style": "SW",
         "player": "Revolution",
         "server": "FuckitHops"
@@ -50969,7 +50969,7 @@
       },
       {
         "map": "bhop_of_longest_test",
-        "time": "19.00.800",
+        "time": "19:00.800",
         "style": "SW",
         "player": "Dúhová víla",
         "server": "mahtava mole hole"
@@ -55302,7 +55302,7 @@
       },
       {
         "map": "bhop_tranquil_garden2",
-        "time": "1.04.432",
+        "time": "1:04.432",
         "style": "SW",
         "player": "Shial",
         "server": "Baguette Server WL"
@@ -60664,7 +60664,7 @@
       },
       {
         "map": "bhop_challenjour_final",
-        "time": "1:07.20.669",
+        "time": "1:07:20.669",
         "style": "A/D",
         "player": "Casa",
         "server": "KawaiiClan"
@@ -63275,7 +63275,7 @@
       },
       {
         "map": "kz_bhop_experience",
-        "time": "17.52.020",
+        "time": "17:52.020",
         "style": "A/D",
         "player": "Dúhová víla",
         "server": "Baguette Server WL"
@@ -65739,7 +65739,7 @@
       },
       {
         "map": "bhop_interloper",
-        "time": "15.32.190",
+        "time": "15:32.190",
         "style": "A/D",
         "player": "hystereo",
         "server": "FuckitHops"
