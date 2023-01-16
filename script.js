@@ -79,9 +79,10 @@ function render() {
         let decpart = record.time.split(".")[1];
         if (decpart.length == 1) decpart+="00";
         if (decpart.length == 2) decpart+="0";
+
         const row = document.createElement("tr");
         row.setAttribute("id", record.map);
-        row.className="table-row cursor-pointer hover:bg-slate-900/[0.3] transition ease-in-out duration-300";
+        row.className=`table-row cursor-pointer odd:bg-slate-700 hover:bg-slate-800 even:bg-slate-700/[0.8] transition ease-in-out duration-300`;
         row.innerHTML = `
                 <td class="rank text-white/[.5] text-sm px-2">${i+1}</td>
                 <td class="map-text text-center">${record.map}</td>
