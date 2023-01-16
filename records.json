@@ -4769,7 +4769,7 @@
     },
     {
       "map": "bhop_crock",
-      "time": "44:677",
+      "time": "44.677",
       "style": "HSW",
       "player": "RossX",
       "server": "Baguette Server"
@@ -7912,7 +7912,7 @@
     },
     {
       "map": "bhop_freakin",
-      "time": "4:56",
+      "time": "4:56.000",
       "style": "HSW",
       "player": "StarLy",
       "server": "LAN"
@@ -9977,7 +9977,7 @@
     },
     {
       "map": "bhop_ivy_final",
-      "time": "14:03",
+      "time": "14:03.000",
       "style": "HSW",
       "player": "Aphex",
       "server": "Gauntlet LAN"
@@ -18279,7 +18279,7 @@
     },
     {
       "map": "bhop_symphony",
-      "time": "1:03",
+      "time": "1:03.000",
       "style": "HSW",
       "player": "Abby",
       "server": "Ultima?"
@@ -20533,7 +20533,7 @@
       },
       {
         "map": "bhop_0001",
-        "time": "44.18",
+        "time": "44.180",
         "style": "W",
         "player": "skay",
         "server": "FuckitHops"
@@ -20645,7 +20645,7 @@
       },
       {
         "map": "bhop_1ucky_for_bhopper",
-        "time": "10.95",
+        "time": "10.950",
         "style": "W",
         "player": "Jurd9R",
         "server": "ALV WL"
@@ -20666,21 +20666,21 @@
       },
       {
         "map": "bhop_2_easy",
-        "time": "9.43",
+        "time": "9.430",
         "style": "W",
         "player": "Jurd9R",
         "server": "Ultima WL"
       },
       {
         "map": "bhop_2001_strafe",
-        "time": "29.66",
+        "time": "29.660",
         "style": "W",
         "player": "Jurd9R",
         "server": "JessicaHops EU"
       },
       {
         "map": "bhop_2001_straif_beta",
-        "time": "22.33",
+        "time": "22.330",
         "style": "W",
         "player": "Jurd9R",
         "server": "zammyhop"
@@ -20715,7 +20715,7 @@
       },
       {
         "map": "bhop_2dingles1whale",
-        "time": "14.58",
+        "time": "14.580",
         "style": "W",
         "player": "Jurd9R",
         "server": "Ultima WL"
@@ -20743,7 +20743,7 @@
       },
       {
         "map": "bhop_3_easy",
-        "time": "9.43",
+        "time": "9.430",
         "style": "W",
         "player": "Jurd9R",
         "server": "JessicaHops NA"
@@ -23718,7 +23718,7 @@
       },
       {
         "map": "bhop_cancer_9",
-        "time": "7",
+        "time": "7.000",
         "style": "W",
         "player": "Jurd9R",
         "server": "ALV WL"
@@ -31229,21 +31229,21 @@
       },
       {
         "map": "bhop_maratona",
-        "time": "15.5",
+        "time": "15.500",
         "style": "W",
         "player": "Dúhová víla",
         "server": "Exalted WL"
       },
       {
         "map": "bhop_marble",
-        "time": "6",
+        "time": "6.000",
         "style": "W",
         "player": "Dúhová víla",
         "server": "Exalted WL"
       },
       {
         "map": "bhop_marble_d",
-        "time": "6",
+        "time": "6.000",
         "style": "W",
         "player": "Jurd9R",
         "server": "Baguette WL"
@@ -40441,7 +40441,7 @@
       },
       {
         "map": "bhop_arcane_v2",
-        "time": "16:12",
+        "time": "16:12.000",
         "style": "SW",
         "player": "Aimer",
         "server": "LAN"
@@ -45523,7 +45523,7 @@
       },
       {
         "map": "bhop_flocci",
-        "time": "18:00",
+        "time": "18:00.000",
         "style": "SW",
         "player": "Aimer",
         "server": "LAN"
@@ -50164,7 +50164,7 @@
       },
       {
         "map": "bhop_monster_jam_speedrun",
-        "time": "5:07",
+        "time": "5:07.000",
         "style": "SW",
         "player": "Aimer",
         "server": "LAN"
@@ -54140,7 +54140,7 @@
       },
       {
         "map": "bhop_straa_forest_css",
-        "time": "41:386",
+        "time": "41.386",
         "style": "SW",
         "player": "91993",
         "server": "FuckitHops"
@@ -55357,7 +55357,7 @@
         "server": "Baguette Server"
       },
       {
-        "map": "bhop_trin ",
+        "map": "bhop_trin",
         "time": "5.868",
         "style": "SW",
         "player": "blade",
@@ -58865,7 +58865,7 @@
       },
       {
         "map": "bhop_astra",
-        "time": "5:08,569",
+        "time": "5:08.569",
         "style": "A/D",
         "player": "ahimsa",
         "server": "Promises's Random Server"
@@ -65704,7 +65704,7 @@
       },
       {
         "map": "bhop_insanelyserz",
-        "time": "1:03:32",
+        "time": "1:03.320",
         "style": "A/D",
         "player": "ahimsa",
         "server": "GFLClan"
@@ -69197,7 +69197,7 @@
       },
       {
         "map": "bhop_office_indoors",
-        "time": "2:40.581.",
+        "time": "2:40.581",
         "style": "A/D",
         "player": "ahimsa",
         "server": "Promises's Random Server"
@@ -70989,7 +70989,7 @@
       },
       {
         "map": "bhop_rogiql",
-        "time": "4:39.,411",
+        "time": "4:39.411",
         "style": "A/D",
         "player": "ahimsa",
         "server": "Baguette Server WL"
@@ -71409,7 +71409,7 @@
       },
       {
         "map": "bhop_seasons_beta",
-        "time": "10:51:54",
+        "time": "10:51.540",
         "style": "A/D",
         "player": "Everless",
         "server": "FuckitHops"
@@ -71731,7 +71731,7 @@
       },
       {
         "map": "bhop_sina_fix",
-        "time": "1:08:05",
+        "time": "1:08.050",
         "style": "A/D",
         "player": "rednax",
         "server": "FuckitHops"
@@ -72515,7 +72515,7 @@
       },
       {
         "map": "bhop_spotlight",
-        "time": "1:59,200",
+        "time": "1:59.200",
         "style": "A/D",
         "player": "ahimsa",
         "server": "GFLClan"
@@ -73390,7 +73390,7 @@
       },
       {
         "map": "bhop_tbd",
-        "time": "3:17,380",
+        "time": "3:17.380",
         "style": "A/D",
         "player": "ahimsa",
         "server": "Promises's Random Server"
